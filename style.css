@@ -1,0 +1,27 @@
+/*Global */
+
+#container {
+  width: 970px;
+  height: 100%;
+  background: #4f3b43;
+}
+
+/*Header*/
+
+header {
+  width: 970px;
+  height: 100px;
+  background: #FAFAFA
+}
+
+header h1 {
+  display: inline;
+  float: left;
+  line-height: 50px;
+}
+
+header h2 {
+  display: inline;
+  float: right;
+  line-height: 50px;
+}
