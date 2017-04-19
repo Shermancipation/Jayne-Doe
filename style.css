@@ -252,17 +252,12 @@ footer{
   display: inline-block;
   width: 970px;
   height: 100px;
-  background: #FAFAFA
-}
-
-footer p{
-  margin: auto;
+  background: #FAFAFA;
   text-align: center;
-  padding 2px;
 }
 
-footer img{
-    width: 40px;
-    height: 40px;
-    margin: auto;
+.end {
+  width: 40px;
+  height: 40px;
+  margin: auto;
 }
