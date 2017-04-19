@@ -25,3 +25,52 @@ header h2 {
   float: right;
   line-height: 50px;
 }
+
+/*Photo/About Container (aboutsection)*/
+
+#aboutsection{
+  width: 970px;
+  height: 300px;
+}
+
+/*Photo Container*/
+
+#photo {
+  display: inline-block;
+  float: left;
+  width: 400px;
+  height: 300px;
+  border: 10px solid #C0C0C0;
+  margin: 20px;
+}
+
+#photo img{
+  width: 100%;
+  height: 100%;
+}
+
+/*About Container*/
+
+#about {
+  display: inline-block;
+  float: right;
+  width: 450px;
+  height: 320px;
+  margin: 20px;
+  background: #f9f6f8;
+}
+
+#about h2 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+/*Projects Container*/
+
+#projects {
+    width: 400px;
+}
