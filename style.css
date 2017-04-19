@@ -72,5 +72,110 @@ header h2 {
 /*Projects Container*/
 
 #projects {
-    width: 400px;
+    width: 970px;
+    height: 600px;
+}
+
+/*La Mode Container*/
+
+#lamode {
+  display: inline-block;
+  float: left;
+  width: 275px;
+  height: 500px;
+  background: #f9f6f8;
+  margin: 20px 20px 20px 30px;
+}
+
+#lamode img {
+  width: 100%;
+  display: inline-block;
+}
+
+#lamode h2 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+#lamode h3 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+/*Family Contacts Container*/
+
+#familycontacts {
+  display: inline-block;
+  width: 275px;
+  height: 500px;
+  background: #f9f6f8;
+  margin: 20px;
+  vertical-align: top;
+}
+
+#familycontacts img {
+  width: 100%;
+  display: inline-block;
+}
+
+#familycontacts h2 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+#familycontacts h3 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+/*fiveEleven Container*/
+
+#fiveEleven {
+  display: inline-block;
+  width: 275px;
+  height: 500px;
+  background: #f9f6f8;
+  margin: 20px;
+}
+
+#fiveEleven img {
+  width: 100%;
+  display: block;
+  height: auto;
+}
+
+#fiveEleven h2 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+#fiveEleven h3 {
+  display: block;
+  width: 100%;
+  background: gray;
+  margin: 0px;
+  color: white;
+}
+
+/*Logos*/
+
+.logos{
+  display: inline-block;
+  width: 40px;
+  height: 40px;
 }
